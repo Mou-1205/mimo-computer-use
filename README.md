@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/npm/v/mimo-computer-use?style=flat-square&logo=npm&color=CB3837)](https://github.com/Mou-1205/mimo-computer-use)
+[![Version](https://img.shields.io/npm/v/mimo-computer-use?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/mimo-computer-use)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](README_zh.md)
 
