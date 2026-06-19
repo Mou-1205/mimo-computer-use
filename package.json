@@ -1,0 +1,48 @@
+{
+  "name": "mimo-computer-use",
+  "version": "0.1.1",
+  "description": "Windows Desktop Automation Skill for MiMoCode — Control Any App via Screenshots, UI Tree Inspection, and Input Simulation",
+  "main": "scripts/cu.py",
+  "scripts": {
+    "test": "python scripts/cu.py --help"
+  },
+  "keywords": [
+    "mimocode",
+    "mimo",
+    "computer-use",
+    "desktop-automation",
+    "windows",
+    "ui-automation",
+    "screenshot",
+    "accessibility",
+    "pywinauto",
+    "skill"
+  ],
+  "author": {
+    "name": "Mou",
+    "url": "https://github.com/Mou-1205"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mou-1205/mimo-computer-use.git"
+  },
+  "homepage": "https://github.com/Mou-1205/mimo-computer-use",
+  "bugs": {
+    "url": "https://github.com/Mou-1205/mimo-computer-use/issues"
+  },
+  "engines": {
+    "python": ">=3.10",
+    "node": ">=18"
+  },
+  "os": [
+    "win32"
+  ],
+  "files": [
+    "SKILL.md",
+    "scripts/",
+    "README.md",
+    "README_zh.md",
+    "LICENSE"
+  ]
+}
