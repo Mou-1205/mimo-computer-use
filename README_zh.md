@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/版本-0.1.1-cb3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/mimo-computer-use)
+[![Version](https://img.shields.io/badge/版本-0.1.1-cb3837?style=flat-square&logo=npm)](https://github.com/Mou-1205/mimo-computer-use)
 [![License](https://img.shields.io/badge/许可证-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](README.md)
 
@@ -33,10 +33,8 @@
 | **填写桌面表单** | 截图表单 → 读取字段 → 输入数据 → 提交 |
 | **自动化 Excel/Word** | 打开文件 → 导航单元格 → 编辑 → 保存 |
 | **浏览器测试** | 启动浏览器 → 点击元素 → 验证截图 |
-| **桌面应用监控** | 定时截图 → 对比 → 变化时告警 |
 | **文件管理** | 打开资源管理器 → 导航 → 重命名/移动文件 |
 | **控制播放器** | 找到播放器窗口 → 点击播放/暂停/跳过 |
-| **桌面游戏辅助** | 截图游戏画面 → 识别对象 → 执行操作 |
 | **老旧应用自动化** | 与没有现代 API 的应用交互 |
 
 ## 工作原理

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/Version-0.1.1-cb3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/mimo-computer-use)
+[![Version](https://img.shields.io/badge/Version-0.1.1-cb3837?style=flat-square&logo=npm)](https://github.com/Mou-1205/mimo-computer-use)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](README_zh.md)
 
@@ -33,10 +33,8 @@
 | **Fill Desktop Forms** | Capture Form → Read Fields → Type Data → Submit |
 | **Automate Excel/Word** | Open File → Navigate Cells → Edit → Save |
 | **Browser Testing** | Launch Browser → Click Elements → Verify Screenshots |
-| **App Monitoring** | Periodic Screenshot → Compare → Alert on Change |
 | **File Management** | Open Explorer → Navigate → Rename/Move Files |
 | **Control Media Players** | Find Player Window → Click Play/Pause/Skip |
-| **Desktop Game Bots** | Screenshot Game → Identify Objects → Act |
 | **Legacy App Automation** | Interact with Apps That Have No Modern API |
 
 ## How It Works
