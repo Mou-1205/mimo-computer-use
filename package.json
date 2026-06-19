@@ -1,6 +1,6 @@
 {
   "name": "mimo-computer-use",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Windows Desktop Automation Skill for MiMoCode — Control Any App via Screenshots, UI Tree Inspection, and Input Simulation",
   "main": "scripts/cu.py",
   "scripts": {
