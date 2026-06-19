@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/许可证-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](README.md)
 
-> [MiMoCode](https://www.npmjs.com/package/@mimo-ai/cli) 的 Windows 桌面自动化技能 — 通过截图、UI 无障碍树检查和输入模拟控制任意 Windows 应用。
+> [MiMoCode](https://github.com/Mou-1205/mimo-computer-use) 的 Windows 桌面自动化技能 — 通过截图、UI 无障碍树检查和输入模拟控制任意 Windows 应用。
 
 </div>
 
