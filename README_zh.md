@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/许可证-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](README.md)
 
-> [MiMoCode](https://github.com/Mou-1205/mimo-computer-use) 的 Windows 桌面自动化技能 — 通过截图、UI 无障碍树检查和输入模拟控制任意 Windows 应用。
+> [MiMoCode](https://github.com/XiaomiMiMo/MiMo-Code) 的 Windows 桌面自动化技能 — 通过截图、UI 无障碍树检查和输入模拟控制任意 Windows 应用。
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## 工作原理
 
-本项目灵感来源于 [OpenAI Codex Computer Use](https://openai.com/index/computer-use/) 插件，该插件通过 `@oai/sky` 运行时和 Named Pipe IPC 为 Codex 提供桌面自动化能力。
+本项目灵感来源于 [OpenAI Codex Computer Use](https://github.com/openai/codex) 插件，该插件通过 `@oai/sky` 运行时和 Named Pipe IPC 为 Codex 提供桌面自动化能力。
 
 `mimo-computer-use` 使用纯 Python 技术栈重新实现了相同的核心原理：
 

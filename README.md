@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Lang](https://img.shields.io/badge/Lang-English-007EC6?style=flat-square)](.) [![Lang](https://img.shields.io/badge/Lang-中文-007EC6?style=flat-square)](README_zh.md)
 
-> Windows Desktop Automation Skill for [MiMoCode](https://github.com/Mou-1205/mimo-computer-use) — Control Any Windows Application Through Screenshots, UI Accessibility Tree Inspection, and Input Simulation.
+> Windows Desktop Automation Skill for [MiMoCode](https://github.com/XiaomiMiMo/MiMo-Code) — Control Any Windows Application Through Screenshots, UI Accessibility Tree Inspection, and Input Simulation.
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## How It Works
 
-This skill is inspired by [OpenAI's Codex Computer Use](https://openai.com/index/computer-use/) plugin, which provides desktop automation for Codex through the `@oai/sky` runtime and Named Pipe IPC on Windows.
+This skill is inspired by [OpenAI's Codex Computer Use](https://github.com/openai/codex) plugin, which provides desktop automation for Codex through the `@oai/sky` runtime and Named Pipe IPC on Windows.
 
 `mimo-computer-use` reimplements the same core principles using a pure Python stack:
 
